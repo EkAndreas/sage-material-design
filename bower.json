@@ -8,7 +8,8 @@
   "private": true,
   "dependencies": {
     "modernizr": "2.8.2",
-    "bootstrap-sass-official": "3.3.5"
+    "bootstrap-sass-official": "3.3.5",
+    "bootstrap-material-design": "*"
   },
   "overrides": {
     "modernizr": {
