@@ -1,15 +1,15 @@
 {
-  "name": "sage",
-  "version": "8.2.1",
-  "author": "Ben Word <ben@benword.com>",
-  "homepage": "https://roots.io/sage/",
+  "name": "sage-material-deign",
+  "version": "8.2.1-dev",
+  "author": "Andreas Ek <andreas@andreasek.se>",
+  "homepage": "http://www.andreasek.se/",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/roots/sage.git"
+    "url": "git://github.com/EkAndreas/sage-material-design.git"
   },
   "bugs": {
-    "url": "https://github.com/roots/sage/issues"
+    "url": "https://github.com/EkAndreas/sage-material-design/issues"
   },
   "licenses": [
     {
